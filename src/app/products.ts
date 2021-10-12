@@ -10,29 +10,28 @@ export const products = [
     id: 1,
     name: 'Phone XL',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'Iso ja raskas puhelin - ei kannata ostaa',
   },
   {
     id: 2,
     name: 'Phone Mini',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Hieno puhelin, mutta pas*a kamera',
   },
   {
     id: 3,
     name: 'Phone Standard',
     price: 299,
-    description: 'Normiluuri'
+    description: 'Normiluuri, mutta ylihinnoteltu',
   },
 
   {
     id: 4,
     name: 'Phone Super',
     price: 269,
-    description: 'Käyttökelvoton puhelin'
-  }
+    description: 'Käyttökelvoton puhelin, täyttä roskaa',
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
